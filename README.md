@@ -18,4 +18,6 @@ program answers before the next millenium
 ## Grade
 **100 / 100**
 
+Duo project with Hive user _aadlercr_.
+
 _Completed 12.11.2019._
