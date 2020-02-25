@@ -18,6 +18,6 @@ program answers before the next millenium
 ## Grade
 **100 / 100**
 
-Duo project with Hive user [aadlercr](https://github.com/DoebelnAtz)
+Collab with Hive student [Axel Adlercreutz](https://github.com/DoebelnAtz)
 
 _Completed 12.11.2019._
